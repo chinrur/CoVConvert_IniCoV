@@ -16,7 +16,7 @@ Unzip mafft-7.505-win64-signed.zip to absolute path C:\mEMBOSS
 1. Install mEMBOSS-6.5.0.0-setup.exe in the absolute path C:\mEMBOSS
 2. Install mafft-win.exe in the absolute path C:\mEMBOSS
 3. Install CoVConvert_v1.1-setup.exe in the absolute path C:\Covision
-4. Copy IniFlu_1.0.xlsm file in the absolute path C:\Covision\CoVConvert\Output
+4. Copy IniCoV_1.1.0.xlsm file in the absolute path C:\Covision\CoVConvert\Output
 ```
 ## 2. Usage
 ## Prepare sequence data
