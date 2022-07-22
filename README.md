@@ -40,8 +40,7 @@ FASTA Header should be hCoV-19/Region/Strain/Year|EPI_ISL_number|YYYY-MM-DD
 
 1.Sequence fasta file (for example: SARS-CoV-2.fasta) put into C:\Covision\CoVConvert\Input folder
 2.Run C:\Covision\CoVConvert\CoVConvert.exe
-3.Type 1
-4.The completed result will be in the C:\Covision\CoVConvert\Output folder
+3.The completed result will be in the C:\Covision\CoVConvert\Output folder
 ```
 
 ## Strain-based amino acid sequence alignment
@@ -56,8 +55,7 @@ Repeat step 3~4 until all virus proteins are imported.
 ```
 1.Select "Sequence Grouping and Computing" Tab → "Calculate the mother group consensus"
 2.Select "Sequence Data Processing" Tab → "Sequence Processing" → "Residue annotate" menu → a virus protein
-3.Next, click the menu "Hide UTP" → a virus protein
-Repeat step 2~3 until all virus proteins are processed. 
+Repeat step 2 until all virus proteins are processed. 
 (If some residues are hidden and you want to show, you can use mouse right-click menu to show the column.)
 ```
 ## Sequence grouping
